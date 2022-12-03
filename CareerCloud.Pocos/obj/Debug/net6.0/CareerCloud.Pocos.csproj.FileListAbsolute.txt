@@ -1,0 +1,71 @@
+C:\Users\savit\Documents\sav\C#.NET\CareerCloud\CareerCloud.Pocos\bin\Debug\net6.0\CareerCloud.Pocos.deps.json
+C:\Users\savit\Documents\sav\C#.NET\CareerCloud\CareerCloud.Pocos\bin\Debug\net6.0\CareerCloud.Pocos.dll
+C:\Users\savit\Documents\sav\C#.NET\CareerCloud\CareerCloud.Pocos\bin\Debug\net6.0\ref\CareerCloud.Pocos.dll
+C:\Users\savit\Documents\sav\C#.NET\CareerCloud\CareerCloud.Pocos\bin\Debug\net6.0\CareerCloud.Pocos.pdb
+C:\Users\savit\Documents\sav\C#.NET\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savit\Documents\sav\C#.NET\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.AssemblyInfoInputs.cache
+C:\Users\savit\Documents\sav\C#.NET\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.AssemblyInfo.cs
+C:\Users\savit\Documents\sav\C#.NET\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.csproj.CoreCompileInputs.cache
+C:\Users\savit\Documents\sav\C#.NET\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.dll
+C:\Users\savit\Documents\sav\C#.NET\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\ref\CareerCloud.Pocos.dll
+C:\Users\savit\Documents\sav\C#.NET\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.pdb
+C:\Users\Home\Documents\sav\C#.NET\CareerCloud\CareerCloud.Pocos\bin\Debug\net6.0\CareerCloud.Pocos.deps.json
+C:\Users\Home\Documents\sav\C#.NET\CareerCloud\CareerCloud.Pocos\bin\Debug\net6.0\CareerCloud.Pocos.dll
+C:\Users\Home\Documents\sav\C#.NET\CareerCloud\CareerCloud.Pocos\bin\Debug\net6.0\CareerCloud.Pocos.pdb
+C:\Users\Home\Documents\sav\C#.NET\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.csproj.AssemblyReference.cache
+C:\Users\Home\Documents\sav\C#.NET\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Documents\sav\C#.NET\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.AssemblyInfoInputs.cache
+C:\Users\Home\Documents\sav\C#.NET\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.AssemblyInfo.cs
+C:\Users\Home\Documents\sav\C#.NET\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\sav\C#.NET\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.dll
+C:\Users\Home\Documents\sav\C#.NET\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\refint\CareerCloud.Pocos.dll
+C:\Users\Home\Documents\sav\C#.NET\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.pdb
+C:\Users\Home\Documents\sav\C#.NET\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\ref\CareerCloud.Pocos.dll
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_2\CareerCloud\CareerCloud.Pocos\bin\Debug\net6.0\CareerCloud.Pocos.deps.json
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_2\CareerCloud\CareerCloud.Pocos\bin\Debug\net6.0\CareerCloud.Pocos.dll
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_2\CareerCloud\CareerCloud.Pocos\bin\Debug\net6.0\CareerCloud.Pocos.pdb
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_2\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_2\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_2\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_2\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.AssemblyInfo.cs
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_2\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_2\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.dll
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_2\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\refint\CareerCloud.Pocos.dll
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_2\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.pdb
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_2\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\ref\CareerCloud.Pocos.dll
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_3\CareerCloud\CareerCloud.Pocos\bin\Debug\net6.0\CareerCloud.Pocos.deps.json
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_3\CareerCloud\CareerCloud.Pocos\bin\Debug\net6.0\CareerCloud.Pocos.dll
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_3\CareerCloud\CareerCloud.Pocos\bin\Debug\net6.0\CareerCloud.Pocos.pdb
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_3\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_3\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_3\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_3\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.AssemblyInfo.cs
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_3\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_3\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.dll
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_3\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\refint\CareerCloud.Pocos.dll
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_3\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.pdb
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_3\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\ref\CareerCloud.Pocos.dll
+C:\Users\Home\Downloads\NET.22-3-Savita-Pathak-N01559274\CareerCloud\CareerCloud.Pocos\bin\Debug\net6.0\CareerCloud.Pocos.deps.json
+C:\Users\Home\Downloads\NET.22-3-Savita-Pathak-N01559274\CareerCloud\CareerCloud.Pocos\bin\Debug\net6.0\CareerCloud.Pocos.dll
+C:\Users\Home\Downloads\NET.22-3-Savita-Pathak-N01559274\CareerCloud\CareerCloud.Pocos\bin\Debug\net6.0\CareerCloud.Pocos.pdb
+C:\Users\Home\Downloads\NET.22-3-Savita-Pathak-N01559274\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.csproj.AssemblyReference.cache
+C:\Users\Home\Downloads\NET.22-3-Savita-Pathak-N01559274\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Downloads\NET.22-3-Savita-Pathak-N01559274\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.AssemblyInfoInputs.cache
+C:\Users\Home\Downloads\NET.22-3-Savita-Pathak-N01559274\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.AssemblyInfo.cs
+C:\Users\Home\Downloads\NET.22-3-Savita-Pathak-N01559274\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.csproj.CoreCompileInputs.cache
+C:\Users\Home\Downloads\NET.22-3-Savita-Pathak-N01559274\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.dll
+C:\Users\Home\Downloads\NET.22-3-Savita-Pathak-N01559274\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\refint\CareerCloud.Pocos.dll
+C:\Users\Home\Downloads\NET.22-3-Savita-Pathak-N01559274\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.pdb
+C:\Users\Home\Downloads\NET.22-3-Savita-Pathak-N01559274\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\ref\CareerCloud.Pocos.dll
+C:\Users\Home\Documents\Main Project C#\CareerCloud\CareerCloud.Pocos\bin\Debug\net6.0\CareerCloud.Pocos.deps.json
+C:\Users\Home\Documents\Main Project C#\CareerCloud\CareerCloud.Pocos\bin\Debug\net6.0\CareerCloud.Pocos.dll
+C:\Users\Home\Documents\Main Project C#\CareerCloud\CareerCloud.Pocos\bin\Debug\net6.0\CareerCloud.Pocos.pdb
+C:\Users\Home\Documents\Main Project C#\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.csproj.AssemblyReference.cache
+C:\Users\Home\Documents\Main Project C#\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Documents\Main Project C#\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.AssemblyInfoInputs.cache
+C:\Users\Home\Documents\Main Project C#\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.AssemblyInfo.cs
+C:\Users\Home\Documents\Main Project C#\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\Main Project C#\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.dll
+C:\Users\Home\Documents\Main Project C#\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\refint\CareerCloud.Pocos.dll
+C:\Users\Home\Documents\Main Project C#\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.pdb
+C:\Users\Home\Documents\Main Project C#\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\ref\CareerCloud.Pocos.dll

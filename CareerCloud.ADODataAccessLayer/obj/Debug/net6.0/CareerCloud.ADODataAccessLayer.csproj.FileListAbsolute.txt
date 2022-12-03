@@ -1,0 +1,85 @@
+C:\Users\Home\Documents\sav\C#.NET\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\net6.0\CareerCloud.ADODataAccessLayer.deps.json
+C:\Users\Home\Documents\sav\C#.NET\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\net6.0\CareerCloud.ADODataAccessLayer.dll
+C:\Users\Home\Documents\sav\C#.NET\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\net6.0\CareerCloud.ADODataAccessLayer.pdb
+C:\Users\Home\Documents\sav\C#.NET\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\net6.0\CareerCloud.DataAccessLayer.dll
+C:\Users\Home\Documents\sav\C#.NET\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\net6.0\CareerCloud.Pocos.dll
+C:\Users\Home\Documents\sav\C#.NET\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\net6.0\CareerCloud.DataAccessLayer.pdb
+C:\Users\Home\Documents\sav\C#.NET\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\net6.0\CareerCloud.Pocos.pdb
+C:\Users\Home\Documents\sav\C#.NET\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\CareerCloud.ADODataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Home\Documents\sav\C#.NET\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\CareerCloud.ADODataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Documents\sav\C#.NET\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\CareerCloud.ADODataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Home\Documents\sav\C#.NET\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\CareerCloud.ADODataAccessLayer.AssemblyInfo.cs
+C:\Users\Home\Documents\sav\C#.NET\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\CareerCloud.ADODataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\sav\C#.NET\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\CareerCloud.ADODataAccessLayer.csproj.CopyComplete
+C:\Users\Home\Documents\sav\C#.NET\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\CareerCloud.ADODataAccessLayer.dll
+C:\Users\Home\Documents\sav\C#.NET\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\refint\CareerCloud.ADODataAccessLayer.dll
+C:\Users\Home\Documents\sav\C#.NET\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\CareerCloud.ADODataAccessLayer.pdb
+C:\Users\Home\Documents\sav\C#.NET\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\ref\CareerCloud.ADODataAccessLayer.dll
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_2\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\net6.0\CareerCloud.ADODataAccessLayer.deps.json
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_2\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\net6.0\CareerCloud.ADODataAccessLayer.dll
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_2\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\net6.0\CareerCloud.ADODataAccessLayer.pdb
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_2\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\net6.0\CareerCloud.DataAccessLayer.dll
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_2\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\net6.0\CareerCloud.Pocos.dll
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_2\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\net6.0\CareerCloud.DataAccessLayer.pdb
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_2\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\net6.0\CareerCloud.Pocos.pdb
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_2\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\CareerCloud.ADODataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_2\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\CareerCloud.ADODataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_2\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\CareerCloud.ADODataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_2\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\CareerCloud.ADODataAccessLayer.AssemblyInfo.cs
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_2\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\CareerCloud.ADODataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_2\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\CareerCloud.ADODataAccessLayer.csproj.CopyComplete
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_2\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\CareerCloud.ADODataAccessLayer.dll
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_2\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\refint\CareerCloud.ADODataAccessLayer.dll
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_2\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\CareerCloud.ADODataAccessLayer.pdb
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_2\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\ref\CareerCloud.ADODataAccessLayer.dll
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_3\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\net6.0\CareerCloud.ADODataAccessLayer.deps.json
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_3\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\net6.0\CareerCloud.ADODataAccessLayer.dll
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_3\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\net6.0\CareerCloud.ADODataAccessLayer.pdb
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_3\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\net6.0\CareerCloud.DataAccessLayer.dll
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_3\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\net6.0\CareerCloud.Pocos.dll
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_3\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\net6.0\CareerCloud.DataAccessLayer.pdb
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_3\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\net6.0\CareerCloud.Pocos.pdb
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_3\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\CareerCloud.ADODataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_3\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\CareerCloud.ADODataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_3\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\CareerCloud.ADODataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_3\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\CareerCloud.ADODataAccessLayer.AssemblyInfo.cs
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_3\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\CareerCloud.ADODataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_3\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\CareerCloud.ADODataAccessLayer.csproj.CopyComplete
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_3\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\CareerCloud.ADODataAccessLayer.dll
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_3\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\refint\CareerCloud.ADODataAccessLayer.dll
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_3\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\CareerCloud.ADODataAccessLayer.pdb
+C:\Users\Home\Desktop\Assignments\C_SHARP_ASSIGNMENTS\ASSIGNMENT_3\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\ref\CareerCloud.ADODataAccessLayer.dll
+C:\Users\Home\Downloads\NET.22-3-Savita-Pathak-N01559274\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\net6.0\CareerCloud.ADODataAccessLayer.deps.json
+C:\Users\Home\Downloads\NET.22-3-Savita-Pathak-N01559274\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\net6.0\CareerCloud.ADODataAccessLayer.dll
+C:\Users\Home\Downloads\NET.22-3-Savita-Pathak-N01559274\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\net6.0\CareerCloud.ADODataAccessLayer.pdb
+C:\Users\Home\Downloads\NET.22-3-Savita-Pathak-N01559274\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\net6.0\CareerCloud.DataAccessLayer.dll
+C:\Users\Home\Downloads\NET.22-3-Savita-Pathak-N01559274\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\net6.0\CareerCloud.Pocos.dll
+C:\Users\Home\Downloads\NET.22-3-Savita-Pathak-N01559274\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\net6.0\CareerCloud.DataAccessLayer.pdb
+C:\Users\Home\Downloads\NET.22-3-Savita-Pathak-N01559274\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\net6.0\CareerCloud.Pocos.pdb
+C:\Users\Home\Downloads\NET.22-3-Savita-Pathak-N01559274\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\CareerCloud.ADODataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Home\Downloads\NET.22-3-Savita-Pathak-N01559274\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\CareerCloud.ADODataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Downloads\NET.22-3-Savita-Pathak-N01559274\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\CareerCloud.ADODataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Home\Downloads\NET.22-3-Savita-Pathak-N01559274\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\CareerCloud.ADODataAccessLayer.AssemblyInfo.cs
+C:\Users\Home\Downloads\NET.22-3-Savita-Pathak-N01559274\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\CareerCloud.ADODataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Home\Downloads\NET.22-3-Savita-Pathak-N01559274\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\CareerCloud.ADODataAccessLayer.csproj.CopyComplete
+C:\Users\Home\Downloads\NET.22-3-Savita-Pathak-N01559274\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\CareerCloud.ADODataAccessLayer.dll
+C:\Users\Home\Downloads\NET.22-3-Savita-Pathak-N01559274\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\refint\CareerCloud.ADODataAccessLayer.dll
+C:\Users\Home\Downloads\NET.22-3-Savita-Pathak-N01559274\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\CareerCloud.ADODataAccessLayer.pdb
+C:\Users\Home\Downloads\NET.22-3-Savita-Pathak-N01559274\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\ref\CareerCloud.ADODataAccessLayer.dll
+C:\Users\Home\Documents\Main Project C#\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\net6.0\CareerCloud.ADODataAccessLayer.deps.json
+C:\Users\Home\Documents\Main Project C#\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\net6.0\CareerCloud.ADODataAccessLayer.dll
+C:\Users\Home\Documents\Main Project C#\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\net6.0\CareerCloud.ADODataAccessLayer.pdb
+C:\Users\Home\Documents\Main Project C#\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\net6.0\CareerCloud.DataAccessLayer.dll
+C:\Users\Home\Documents\Main Project C#\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\net6.0\CareerCloud.Pocos.dll
+C:\Users\Home\Documents\Main Project C#\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\net6.0\CareerCloud.DataAccessLayer.pdb
+C:\Users\Home\Documents\Main Project C#\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\net6.0\CareerCloud.Pocos.pdb
+C:\Users\Home\Documents\Main Project C#\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\CareerCloud.ADODataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Home\Documents\Main Project C#\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\CareerCloud.ADODataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Documents\Main Project C#\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\CareerCloud.ADODataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Home\Documents\Main Project C#\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\CareerCloud.ADODataAccessLayer.AssemblyInfo.cs
+C:\Users\Home\Documents\Main Project C#\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\CareerCloud.ADODataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\Main Project C#\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\CareerCloud.ADODataAccessLayer.csproj.CopyComplete
+C:\Users\Home\Documents\Main Project C#\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\CareerCloud.ADODataAccessLayer.dll
+C:\Users\Home\Documents\Main Project C#\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\refint\CareerCloud.ADODataAccessLayer.dll
+C:\Users\Home\Documents\Main Project C#\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\CareerCloud.ADODataAccessLayer.pdb
+C:\Users\Home\Documents\Main Project C#\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\net6.0\ref\CareerCloud.ADODataAccessLayer.dll

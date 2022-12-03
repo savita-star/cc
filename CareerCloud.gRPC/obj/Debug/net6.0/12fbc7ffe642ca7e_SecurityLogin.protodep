@@ -1,0 +1,5 @@
+obj\Debug\net6.0\Protos/SecurityLogin.cs \
+obj\Debug\net6.0\Protos/SecurityLoginGrpc.cs: C:/Users/Home/.nuget/packages/grpc.tools/2.46.3/build/native/include/google/protobuf/Timestamp.proto\
+ C:/Users/Home/.nuget/packages/grpc.tools/2.46.3/build/native/include/google/protobuf/wrappers.proto\
+ C:/Users/Home/.nuget/packages/grpc.tools/2.46.3/build/native/include/google/protobuf/empty.proto\
+ Protos/SecurityLogin.proto
